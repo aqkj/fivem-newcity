@@ -1,0 +1,25 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1581183641678'); /* IE9 */
+  src: url('iconfont.eot?t=1581183641678#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAPAAAsAAAAAB8QAAAN0AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDBgqDKIJzATYCJAMMCwgABCAFhG0HORu8BsgekiQtQgSUA+AKAACKh//2Y903M/+j0iCJRrqfTjJJJLNQ8NXQN29oVpqeLhoqy6/99kVLWvsmETHLZ3snvttHmociVhIp0agQEsy/XfazE2oQCCxtVNJB3b39n8vprcTnB8rl1qTGXn7UCzAOKKC9MYqyMC6QBL3H2EDtdq8TaDaoK7eov3MCVYU5LxD7QbYO1YxdaWgNjUJdsbWI16DSmB5we4BXwffjD+kgJakyc+nS3qoFC99ZnzWhTHymTQ8B7HRe8LvImAIKsV3pX1WI8lMKmlWl2FxbK0KaKoXHEzCaVFt/eCRB1MzmVjBG5HRRrMMkqiZyV80+3OwaBdeAt5Kjl3lkFj3UVMspNwRtXVgSXH5ud3mJoukX6eFPbDvLueB3z+qloHrWDXbXrs/1Ni9Rlzbyi08x7eMCk5c6g5cyjZfsNQMIUtHG6Gvf6BxkrhkRtq+Y6KqD7bqZMhl5RawjzlvG31GFVA2vnp+myBURsHN8rofLowiLi9OHdyRa2Yg4U0IXAI7/kxC98Z12SuoV4SwS38ZpmqjUF/sWSQIdkXrDk14wqckT+h3bwr6j+9uidzgteHjZHqYTXvdEDHHtCFibn/5fnG2ulHAr7Qm+ad2Cw8cN7bc//TaXBp77cxysglLENR2zdFXgXUWzsBA9p1r/R/+fNc0G7omU9ERJShELBSTHrwpi1v4V3SPskZT28X8G9ZY3nVSMx7dSD7JLjFSTN5r133SBBvBUmuOhOK7Ykjez9y/7jVctF2weNKp/SVsK+ObHUI2xp9ICujdolODZH8R27CgabzpyURiHMYLZ8s16E0gJqt/SDt1+hwf7QOINjQKLkDQYgKzREFoMU1BpMQ21RjPQbNL67hY9WEGUJkx4AAidPiFp9xGyTl9oMfxApd8/1DoDgmbLwXBki5EIIteJJl3IQu8kDPKJI2W7pB62HpE9CXRO84HxjDhzUyglLpkvrVNEPMWKmHh7HBur0D86DlEfbqMgiDEyOvbIlH5grCRTEhL+VQ/q+0SEULeAEZ0gFmS4glymWER5vUW98PkjxDYR0HGDrmp7hrCMOzga6Rt2QNeVqJPuVu7JnLONCaEghcVCaA28JLDyMZRUT/IQk+hzBmQTUwakm+qq9JfXwvfbB83METlS5Ciqq4sexxVfr9h0dAEA') format('woff2'),
+  url('iconfont.woff?t=1581183641678') format('woff'),
+  url('iconfont.ttf?t=1581183641678') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1581183641678#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-water:before {
+  content: "\e640";
+}
+
+.icon-daochat:before {
+  content: "\e61c";
+}
+

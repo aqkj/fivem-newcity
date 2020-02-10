@@ -1,0 +1,23 @@
+{
+  "id": "1631762",
+  "name": "fivem-mnds",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1398690",
+      "name": "水杯,喝水,water",
+      "font_class": "water",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "11140925",
+      "name": "刀叉",
+      "font_class": "daochat",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    }
+  ]
+}
